@@ -1,0 +1,12 @@
+:root {
+  --text-color: #333;
+}
+
+html, body {
+  font-family: 'Roboto', sans-serif;
+}
+
+footer {
+  padding: 1em;
+  color: rgba(0, 0, 0, 0.55);
+}
